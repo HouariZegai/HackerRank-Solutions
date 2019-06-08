@@ -1,6 +1,6 @@
 /*
 	Java Exercise:
-		Name: Java Regex [Easy].
+		Name: Java Regex [Medium].
 		Link: https://www.hackerrank.com/challenges/java-regex/problem
 */
 
